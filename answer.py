@@ -62,5 +62,4 @@ for x in range(0, 72):
     my_answer_list.append(list_value[0][0]) 
 ###################
 
-cv2.imshow('roi1', roi1_thresh)
 cv2.waitKey(0)
