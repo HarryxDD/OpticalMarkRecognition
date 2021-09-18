@@ -62,4 +62,5 @@ for x in range(0, 72):
     my_answer_list.append(list_value[0][0]) 
 ###################
 
+
 cv2.waitKey(0)

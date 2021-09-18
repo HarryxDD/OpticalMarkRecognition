@@ -6,6 +6,7 @@ import re
 path = '/home/harry/VNUK/Introduction to CS and Programming/Challenge2/Mark Recognition/student/'
 data = os.listdir(path)
 
+##### ADD DATA INTO DF #####
 sheet_list = []
 for file in data:
     data_name = os.path.splitext(file)
