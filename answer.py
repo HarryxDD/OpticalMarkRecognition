@@ -53,7 +53,6 @@ pixel_array1 = np.zeros((72,5))
 boxes(cells1, 0, 0, pixel_array1)
 boxes(cells2, 0, 36, pixel_array1)
 
-print(pixel_array1)
 ##### ANSWER #####
 my_answer_list = []
 for x in range(0, 72):

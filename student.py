@@ -12,6 +12,13 @@ for sheet in range(len(student_info.sheet_list)):
 student_id = []
 grading = []
 status = []
+ans_dict = {}
+new_ans_dict = {}
+for ques in range(0,72):
+    ans_dict[f'{ques}'] = 0
+for ques in range(60):
+    new_ans_dict[f'{ques}'] = 0
+
 for sheet in range(len(path_array)):
 
     ##### HANDLE IMAGE #####
@@ -74,6 +81,7 @@ for sheet in range(len(path_array)):
             count += 1
         else: 
             check.append(0)
+            ans_dict[f'{x}'] += 1
     count -= 12
     grading.append(count)
     
@@ -95,10 +103,25 @@ for sheet in range(len(path_array)):
     
     ###################
 
-    ##### 3 MOST DIFFICULT #####
-    
+##### 3 MOST DIFFICULT #####
 
-    ############################
+count_ques = 0
+for ques in list(ans_dict):
+    count_ques += 1
+    if count_ques == 6: 
+        ans_dict.pop(f'{ques}', None) 
+        count_ques -= 6
+
+num = 0
+for ques in list(ans_dict):
+    new_ans_dict[f'{num}'] = ans_dict[f'{ques}']
+    num += 1
+
+sort_ans_dict = sorted(new_ans_dict.items(), key=lambda x:x[1], reverse=True)
+print(f'3 cau kho nhat la: {int(sort_ans_dict[0][0]) + 1}, {int(sort_ans_dict[1][0]) + 1}, {int(sort_ans_dict[2][0]) + 1}')
+
+############################
+
 
 ##### DATAFRAME #####
 # grading_data = {'Student_ID': [], 'Grading': [], 'Result': []}
