@@ -29,9 +29,7 @@ for filename in sheet_list:
 
 
 df = pd.DataFrame(sheet_data, columns= ['Student_ID', 'Surname', 'Firstname', 'Code'])
-# df = df.sort_values(by=['Student_ID'])
 df = df.reset_index(drop=True)
-print(sheet_data)
 
 # Generate student.csv
 # df.to_csv('/home/harry/VNUK/Introduction to CS and Programming/Challenge2/Mark Recognition/student.csv')
