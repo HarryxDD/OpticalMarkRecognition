@@ -35,3 +35,4 @@ df = df.reset_index(drop=True)
 # Generate student.csv
 df.to_csv('csv_files/student.csv')
 
+print('tdsfasndfjsafhdasiofhsdiafhdsioafodasfiodjsaofjdasio')
