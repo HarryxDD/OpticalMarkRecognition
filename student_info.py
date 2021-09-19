@@ -32,7 +32,6 @@ for file in data:
 df = pd.DataFrame(sheet_data, columns= ['Student_ID', 'Surname', 'Firstname', 'Code'])
 df = df.reset_index(drop=True)
 
-print(df)
 # Generate student.csv
 df.to_csv('csv_files/student.csv')
 
