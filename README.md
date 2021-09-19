@@ -2,11 +2,20 @@
 
 ![GitHub language count](https://img.shields.io/github/languages/count/HarryxDD/OpticalMarkRecognition?logo=GitHub) ![GitHub followers](https://img.shields.io/github/followers/HarryxDD?color=%23&style=social)
 
-In this project we used four library, including opencv, numpy, regex and pandas to analyze the photos ( the students' anwser) to find the right anwser, wrong anwser and the students' result.
+
+## About the project:
+
+This project helped students practice to use 4 library, including opencv, numpy, regex and pandas. We can practice a lot to analyze the photos, statistics. And we can optomize code better. Moreover, with this project we can study a lot to improve coding skills and how to use the library better.
+
+##### Table of Contents:
+1. [ Install library. ](#desc)
+2. [ Data. ](#da)
+3. [ Usage tips. ](#us)
+4. [ Language and technology. ](#tech)
+  
 
 
-
-
+<a name="desc"></a>
 ## Install library:
 
 Opencv:
@@ -33,7 +42,7 @@ Regex:
 
       
 
-
+<a name="da"></a>
 ## Data:
 
 In this project, we used 50 photos-this is the student result in the answer sheet. You can find it in folder "Student".
@@ -44,7 +53,7 @@ Example data:
 
 With these datas, we compares the students' answers with the our answer to find the students' result. Our anwser in folder "answer".
 
-
+<a name="us"></a>
 ## Usage:
 ```
 1/ Move to folder: "OpticalMarkRecognition" (cd OpticalMarkRecognition)
@@ -53,11 +62,11 @@ With these datas, we compares the students' answers with the our answer to find 
 
 3/ Continue with file:"answer.py" to analyze the root answer.
 
-4/ Finally, we use file:"student.py" to check the right answer, wrong answer, and the final score of each student.
+4/ Finally, we use file:"student.py" to check the right answer, wrong answer, and the final score of each student. All of the information will be display in the terminal.
 
 5/ We can read file csv in folder:"csv_files".
 ```
-
+<a name="tech"></a>
 # Language and technology: 
 
 
