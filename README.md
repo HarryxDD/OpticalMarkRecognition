@@ -44,8 +44,19 @@ Example data:
 
 With these datas, we compares the students' answers with the our answer to find the students' result. Our anwser in folder "answer".
 
-       
 
+## Usage:
+```
+1/ Move to folder: "OpticalMarkRecognition" (cd OpticalMarkRecognition)
+
+2/ Start with file :"Student_info.py" to  handle the infomation of student'answer.
+
+3/ Continue with file:"answer.py" to analyze the root answer.
+
+4/ Finally, we use file:"student.py" to check the right answer, wrong answer, and the final score of each student.
+
+5/ We can read file csv in folder:"csv_files"
+```
 
 # Language and technology: 
 
