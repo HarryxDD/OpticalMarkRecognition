@@ -3,15 +3,17 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/HarryxDD/OpticalMarkRecognition?logo=GitHub) ![GitHub followers](https://img.shields.io/github/followers/HarryxDD?color=%23&style=social)
 
 
+#### Table of contents:
+1. [ About the project. ](#pro)
+2. [ Install library. ](#desc)
+3. [ Data. ](#da)
+4. [ Usage tips. ](#us)
+5. [ Language and technology. ](#tech)
+
+<a name="pro"></a>
 ## About the project:
 
 This project helped students practice to use 4 library, including opencv, numpy, regex and pandas. We can practice a lot to analyze the photos, statistics. And we can optomize code better. Moreover, with this project we can study a lot to improve coding skills and how to use the library better.
-
-##### Table of Contents:
-1. [ Install library. ](#desc)
-2. [ Data. ](#da)
-3. [ Usage tips. ](#us)
-4. [ Language and technology. ](#tech)
   
 
 
