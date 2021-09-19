@@ -40,7 +40,7 @@ In this project, we used 50 photos-this is the student result in the answer shee
 
 Example data:
 
-![all text](student/2000101_NguyenVanAn_3A.png) 
+![all text](student/2000101_NguyenVanAn_3A.png = 500x500) 
 
 With these datas, we compares the students' answers with the our answer to find the students' result. Our anwser in folder "answer".
 
