@@ -18,8 +18,7 @@
 <a name="pro"></a>
 # About the project:
 
-This project helped students practice to use 4 library, including opencv, numpy, regex and pandas. We can practice a lot to analyze the photos, statistics. And we can optomize code better. Moreover, with this project we can study a lot to improve coding skills and how to use the library better.
-
+Mai sửa
 <a name="tech"></a>
 ## Built with: 
 
@@ -67,7 +66,7 @@ Example data:
 
 
 <p align="center" width="100%">
-    <img width="33%" src="https://github.com/HarryxDD/OpticalMarkRecognition/blob/main/student/2000101_NguyenVanAn_3A.png"> 
+    <img width="50%" src="https://github.com/HarryxDD/OpticalMarkRecognition/blob/main/student/2000101_NguyenVanAn_3A.png"> 
 </p>
 
 With these datas, we compares the students' answers with the our answer to find the students' result. Our anwser in folder "answer".
@@ -92,17 +91,17 @@ With these datas, we compares the students' answers with the our answer to find 
 <a name="in"></a>
 ## Instructors:
 
-Thank you Mr. Vũ and Mr. Thiện for the support and give us a wonderful challenges to improve our coding skill and use the python library better. Thank you very much and we hope we can get more challenge to improve our coding more and more.
+Thank you Mr. Vu and Mr. Thien for the support and give us a wonderful challenges to improve our coding skill and use the python library better. Thank you very much and we hope we can get more challenge to improve our coding more and more.
 
 <a name="con"></a>
 ## Contact:
-1/ Trương Hạ Vũ:
+1/ Vu Truong:
 ```
 Email: vu.truong200201@vnuk.edu.vn
 Github: https://github.com/HarryxDD
 ```
 
-2/ Ngô Phan Tâm Bảo:
+2/ Bao Ngo:
 ```
 Email: bao.ngo200202@vnuk.edu.vn
 Github: https://github.com/ngobao2002
