@@ -40,7 +40,7 @@ In this project, we used 50 photos-this is the student result in the answer shee
 
 Example data:
 
-<img src="https://github.com/HarryxDD/OpticalMarkRecognition/blob/main/student/2000101_NguyenVanAn_3A.png" width="100" height="100"> 
+<img src="https://github.com/HarryxDD/OpticalMarkRecognition/blob/main/student/2000101_NguyenVanAn_3A.png" width="500" height="600"> 
 
 With these datas, we compares the students' answers with the our answer to find the students' result. Our anwser in folder "answer".
 
