@@ -65,11 +65,15 @@ In this project, we used 50 photos-this is the student result in the answer shee
 
 Example data:
 
-<img src="https://github.com/HarryxDD/OpticalMarkRecognition/blob/main/student/2000101_NguyenVanAn_3A.png" width="500" height="600" style="display: block; margin: 0 auto"> 
+
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/HarryxDD/OpticalMarkRecognition/blob/main/student/2000101_NguyenVanAn_3A.png"> 
+</p>
 
 With these datas, we compares the students' answers with the our answer to find the students' result. Our anwser in folder "answer".
 
 <a name="us"></a>
+
 ## Usage:
 ```
 1/ Move to folder: "OpticalMarkRecognition" (cd OpticalMarkRecognition)
