@@ -18,7 +18,7 @@
 <a name="pro"></a>
 # About the project:
 
-Mai sửa
+coming soon !!!
 <a name="tech"></a>
 ## Built with: 
 
