@@ -1,5 +1,6 @@
 # Project to check multiple choice test with opencv and python
 
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/HarryxDD/OpticalMarkRecognition?logo=GitHub&style=flat-square) ![GitHub language count](https://img.shields.io/github/languages/count/HarryxDD/OpticalMarkRecognition?logo=GitHub)
 
 In this project we used four library, including opencv, numpy, regex and pandas to analyze the photos ( the students' anwser) to find the right anwser, wrong anwser and the students' result.
 
