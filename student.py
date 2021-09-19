@@ -97,9 +97,9 @@ for sheet in range(len(path_array)):
     firstname = student_info.df.loc[sheet, ['Firstname']].values
     firstname = ' '.join(firstname)
 
-    # print(f'So diem cua {surname} {firstname} la {count}/60')
-    # print(f'Nam cau dau tien la {answer_letter[0:5]}')
-    # print(f'Toan bo dap an la {answer_letter}')
+    print(f'So diem cua {surname} {firstname} la {count}/60')
+    print(f'Nam cau dau tien la {answer_letter[0:5]}')
+    print(f'Toan bo dap an la {answer_letter}')
     
     ###################
 

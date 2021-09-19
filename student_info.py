@@ -8,15 +8,14 @@ data = os.listdir(path)
 
 ##### ADD DATA INTO DF #####
 sheet_list = []
+sheet_data = {'Student_ID': [], 'Surname': [], 'Firstname': [], 'Code': []}
+
 for file in data:
     data_name = os.path.splitext(file)
     sheet_list.append(data_name[0])
+# for filename in sheet_list:
 
-sheet_data = {'Student_ID': [], 'Surname': [], 'Firstname': [], 'Code': []}
-
-
-for filename in sheet_list:
-    filename_parts = filename.split('_')
+    filename_parts = data_name[0].split('_')
     
     sheet_data['Student_ID'].append(filename_parts[0])
 
