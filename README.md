@@ -22,9 +22,9 @@
 2. [ Built with. ](#tech)
 3. [ Getting started. ](#get)
 
-   i.[ Installation. ](#desc) 
+   - i.[ Installation. ](#desc) 
    
-   ii.[ Data. ](#da)
+   - ii.[ Data. ](#da)
    
 4. [ Usage. ](#us) 
 5. [ Instructors. ](#in)
@@ -93,7 +93,7 @@ With these datas, we compares the students' answers with the our answer to find 
 ```
 1/ Move to folder: "OpticalMarkRecognition" (cd OpticalMarkRecognition)
 
-2/ Start with file :"Student_info.py" to  handle the infomation of student'answer.
+2/ Start with file :"Student_info.py" to  handle the infomation of students'answer.
 
 3/ Continue with file:"answer.py" to analyze the root answer.
 
