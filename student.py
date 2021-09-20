@@ -23,6 +23,8 @@ for ques in range(0,72):
 for ques in range(60):
     new_ans_dict[f'{ques}'] = 0
 
+# input 1 student id to get his/her answer
+input_id = int(input("Input student ID: "))
 
 for sheet in range(len(path_array)):
     img = cv2.imread(path_array[sheet]) # read image
@@ -70,9 +72,10 @@ for sheet in range(len(path_array)):
     surname = ' '.join(student_info.df.loc[sheet, ['Surname']].values) 
     firstname = ' '.join(student_info.df.loc[sheet, ['Firstname']].values)
 
-    print(f'So diem cua {surname} {firstname} la {count}/60')
-    print(f'Nam cau dau tien la {answer_letter[0:5]}')
-    print(f'Toan bo dap an la {answer_letter}')
+    if id == f'{input_id}':
+        print(f'So diem cua {surname} {firstname} la {count}/60')
+        print(f'Nam cau dau tien la {answer_letter[0:5]}')
+        print(f'Toan bo dap an la {answer_letter}')
 
 
 # finding 3 most difficult ques
@@ -90,6 +93,7 @@ for ques in list(ans_dict):
 
 sort_ans_dict = sorted(new_ans_dict.items(), key=lambda x:x[1], reverse=True)
 print(f'3 cau kho nhat la: {int(sort_ans_dict[0][0]) + 1}, {int(sort_ans_dict[1][0]) + 1}, {int(sort_ans_dict[2][0]) + 1}')
+
 
 
 #############

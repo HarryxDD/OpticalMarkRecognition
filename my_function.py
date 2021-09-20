@@ -58,6 +58,7 @@ def handle_image(img):
     return pixel_array1
     ##
 
+
 def find_correct_choices(pixel_array, lst):
     
     for x in range(0, 72):
@@ -66,4 +67,6 @@ def find_correct_choices(pixel_array, lst):
         lst.append(list_value[0][0]) # adding the choices' position into answer list
 
     return lst
+
+
 ##
