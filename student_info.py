@@ -30,6 +30,7 @@ for file in data:
 
 
 df = pd.DataFrame(sheet_data, columns= ['Student_ID', 'Surname', 'Firstname', 'Code'])
+df = df.sort_values(by=['Student_ID'])
 df = df.reset_index(drop=True)
 
 # Generate student.csv
