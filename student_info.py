@@ -2,7 +2,6 @@ import pandas as pd
 import os
 import re
 
-
 path = 'student/'
 data = os.listdir(path)
 
