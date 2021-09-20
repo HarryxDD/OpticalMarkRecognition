@@ -104,7 +104,7 @@ With these datas, we compares the students' answers with the our answer to find 
 
 3/ Continue with file:"answer.py" to analyze the root answer.
 
-4/ Finally, we use file:"student.py" to check the right answer, wrong answer, and the final score of each student. All of the information will be display in the terminal.
+4/ Finally, we use file:"student.py" to check the right answer, wrong answer, and the final score of each student. We can input the student ID in folder: "student" to check each student's result. All of the information will be display in the terminal.
 
 5/ We can read file csv in folder:"csv_files".
 ```
