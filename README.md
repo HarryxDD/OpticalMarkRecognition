@@ -41,7 +41,8 @@
 <a name="pro"></a>
 # About the project:
 
-coming soon !!!
+Nowadays, teachers face a major challenge in ensuring that their students' answers are correct and on time. With this project, teachers will spend nearly one minute checking all of their students' answers with a high correct rate of over 99.9 percent, and this project will analyze and summarize all important information about wrong or right answers, which difficult questions have a high error rate.
+
 <a name="tech"></a>
 ## Built with: 
 
