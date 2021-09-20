@@ -2,7 +2,7 @@
 <br />
 <p align="center">
 
-  <h2 align="center">Project to check multiple choice test with opencv and python</h2>
+  <h1 align="center">Project to check multiple choice test with opencv and python</h1>
 
   <p align="center">
     This project help teacher to check the students' answer faster and more exactly.
@@ -11,10 +11,17 @@
     <a href="https://github.com/HarryxDD/OpticalMarkRecognition/issues">Report Bug</a>
     ·
     <a href="https://github.com/HarryxDD/OpticalMarkRecognition/issues">Request Feature</a>
+    
   </p>
+  
 
-
-![GitHub language count](https://img.shields.io/github/languages/count/HarryxDD/OpticalMarkRecognition?logo=GitHub) ![GitHub followers](https://img.shields.io/github/followers/HarryxDD?color=%23&style=social) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/HarryxDD/OpticalMarkRecognition?logo=GitHub)
+<!-- ![GitHub language count](https://img.shields.io/github/languages/count/HarryxDD/OpticalMarkRecognition?logo=GitHub) ![GitHub followers](https://img.shields.io/github/followers/HarryxDD?color=%23&style=social) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/HarryxDD/OpticalMarkRecognition?logo=GitHub) -->
+</p>
+<br />
+<p align="center" width="100%">
+    <img width="12%" src="https://img.shields.io/github/languages/count/HarryxDD/OpticalMarkRecognition?logo=GitHub">
+    <img width="12%" src="https://img.shields.io/github/followers/HarryxDD?color=%23&style=social">
+    <img width="19%" src="https://img.shields.io/github/commit-activity/w/HarryxDD/OpticalMarkRecognition?logo=GitHub">
 </p>
 
 #### Table of contents:
