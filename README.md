@@ -29,9 +29,9 @@
 2. [ Built with. ](#tech)
 3. [ Getting started. ](#get)
 
-   - i.[ Installation. ](#desc) 
+    i.[ Installation. ](#desc) 
    
-   - ii.[ Data. ](#da)
+    ii.[ Data. ](#da)
    
 4. [ Usage. ](#us) 
 5. [ Instructors. ](#in)
