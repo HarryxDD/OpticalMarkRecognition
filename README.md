@@ -1,29 +1,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/HarryxDD/OpticalMarkRecognition">
-    <img src="logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Project to check multiple choice test with opencv and python</h3>
+  <h2 align="center">Project to check multiple choice test with opencv and python</h2>
 
   <p align="center">
     This project help teacher to check the students' answer faster and more exactly.
     <br />
-    <a href="https://github.com/HarryxDD/OpticalMarkRecognition"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/HarryxDD/OpticalMarkRecognition">View Demo</a>
-    ·
     <a href="https://github.com/HarryxDD/OpticalMarkRecognition/issues">Report Bug</a>
     ·
     <a href="https://github.com/HarryxDD/OpticalMarkRecognition/issues">Request Feature</a>
   </p>
-</p>
-
 
 
 ![GitHub language count](https://img.shields.io/github/languages/count/HarryxDD/OpticalMarkRecognition?logo=GitHub) ![GitHub followers](https://img.shields.io/github/followers/HarryxDD?color=%23&style=social) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/HarryxDD/OpticalMarkRecognition?logo=GitHub)
+</p>
 
 #### Table of contents:
 1. [ About the project. ](#pro)
